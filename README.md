@@ -1,5 +1,3 @@
-# Kasten-CN-WebUI
-Kasten-CN-WebUI
 # Chrome Extensions for Kasten by Veeam UI Language pack
 
 1. You need chrome.
