@@ -1,0 +1,22 @@
+{
+
+
+	"manifest_version": 3,
+	"name": "Kasten K10 - Language Pack (CN)",
+	"version": "1.0",
+	"icons": {
+    "19": "images/icon19.png",
+	"48": "images/icon48.png"
+  },
+	"description": "Chinese language pack for Kasten K10 - Language Pack (CN) Web UI",
+	"content_scripts": 
+	[
+		{
+			"matches": ["*://*/*"],
+			"js": ["content_script.js"],
+			"run_at": "document_end"
+		}
+	]
+
+}
+
