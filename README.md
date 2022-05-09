@@ -1,4 +1,4 @@
-# Chrome Extensions for Kasten by Veeam UI Language pack
+# Chrome Extensions for Kasten by Veeam Web UI Language pack
 
 1. You need chrome.
 2. language pack unzip folder.
